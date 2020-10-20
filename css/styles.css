@@ -1,0 +1,23 @@
+body{
+ margin: 0;
+
+}
+
+h1{
+margin: 0;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+p{
+  font-family:Trattatello, fantasy;
+}
+
+div{
+  background-color: #01c5c4;
+  border: solid;
+  margin: 0;
+}
+
+img{
+  background-color: #ffe05d;
+
+}
